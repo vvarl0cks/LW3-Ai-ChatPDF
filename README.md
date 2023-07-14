@@ -2,6 +2,8 @@
 
 In this lesson, we are going to be building a chatbot that you can use to talk to any PDF (or even multiple PDFs). You, the user, can upload any PDFs you like on the app we will build, and the AI will learn the contents of that PDF file, allowing you to ask it questions about that file.  
 
+📂 `demo` https://warlocsk-ai-chatpdf.netlify.app   
+
 ## Our Stack
 
 We will use Next.js, TypeScript, Tailwind CSS, and Langchain for this project. We will also use Vercel’s new ai SDK.  
